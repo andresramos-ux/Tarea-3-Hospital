@@ -22,7 +22,7 @@
 			"sinks": [
 				{
 					"dataset": {
-						"referenceName": "Silver_Admisiones_Sql",
+						"referenceName": "Silver_Admisiones_sql",
 						"type": "DatasetReference"
 					},
 					"name": "sink1"
